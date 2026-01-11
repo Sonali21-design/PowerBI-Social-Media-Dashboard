@@ -32,4 +32,14 @@ The main objectives of this project are:
 * Shows daily engagement trends over time.
 * Provides engagement distribution by region.
 * Helps stakeholders quickly understand overall performance .
-![Executive Summary](executive_summary.png)
+
+<img width="800" height="500" alt="image" src="executive summary.png" />
+
+### 📈 Platform and content deep dive : 
+* Analyzes engagement across social media platforms (Instagram, YouTube, TikTok, LinkedIn, Facebook, X.com).
+* Shows engagement composition using likes and shares.
+* Analyzes performance by post type and content type.
+* Identifies top-performing hashtags.
+* Displays top-performing posts by likes and platform.
+
+<img width="800" height="500" alt="image" srd="platform and content deep dive.png" />
