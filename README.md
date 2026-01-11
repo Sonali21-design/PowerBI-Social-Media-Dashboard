@@ -33,8 +33,6 @@ The main objectives of this project are:
 * Provides engagement distribution by region.
 * Helps stakeholders quickly understand overall performance .
 
-<img width="800" height="500" alt="image" src="executive summary.png" />
-
 ### 📈 Platform and content deep dive : 
 * Analyzes engagement across social media platforms (Instagram, YouTube, TikTok, LinkedIn, Facebook, X.com).
 * Shows engagement composition using likes and shares.
@@ -42,4 +40,23 @@ The main objectives of this project are:
 * Identifies top-performing hashtags.
 * Displays top-performing posts by likes and platform.
 
-<img width="800" height="500" alt="image" srd="platform and content deep dive.png" />
+### 🌍 Temporal & Geo Performance :
+* Analyzes engagement trends by time and day.
+* Shows post frequency across different months and regions.
+* Displays geographic engagement distribution using maps.
+* Identifies best-performing time periods and locations.
+
+## 🔍 Key Insights :
+* Instagram and YouTube show the highest engagement.
+* Video and live stream content receive more views and clicks.
+* Specific hashtags generate higher engagement and performance scores.
+* Audience engagement is higher during evening hours and mid-week.
+* Some regions consistently perform better than others.
+* Consistent posting improves engagement and audience retention.
+
+## 🛠️ Tool Used :
+Power BI – Data cleaning, modeling, and dashboard creation
+
+## 🧠 Conclusion :
+This project demonstrates practical skills in data analysis, KPI tracking, and dashboard creation using Power BI.
+It converts complex social media data into meaningful insights that support strategic decision-making.
