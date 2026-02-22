@@ -42,11 +42,15 @@ The main objectives of this project are:
 * Identifies top-performing hashtags.
 * Displays top-performing posts by likes and platform.
 
+<img width="1179" height="673" alt="image" src="https://github.com/Sonali21-design/PowerBI-Social-Media-Dashboard/blob/main/Platform%20and%20content%20deep%20dive.png?raw=true" />
+
 ### 🌍 Temporal & Geo Performance :
 * Analyzes engagement trends by time and day.
 * Shows post frequency across different months and regions.
 * Displays geographic engagement distribution using maps.
 * Identifies best-performing time periods and locations.
+
+<img width="1179" height="673" alt="image" src="https://github.com/Sonali21-design/PowerBI-Social-Media-Dashboard/blob/main/Geo%20performance.png?raw=true" />
 
 ## 🔍 Key Insights :
 * Instagram and YouTube show the highest engagement.
