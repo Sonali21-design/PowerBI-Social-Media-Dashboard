@@ -33,6 +33,8 @@ The main objectives of this project are:
 * Provides engagement distribution by region.
 * Helps stakeholders quickly understand overall performance .
 
+<img width="1179" height="673" alt="image" src="https://github.com/Sonali21-design/PowerBI-Social-Media-Dashboard/blob/main/executive%20summary.png?raw=true" />
+
 ### 📈 Platform and content deep dive : 
 * Analyzes engagement across social media platforms (Instagram, YouTube, TikTok, LinkedIn, Facebook, X.com).
 * Shows engagement composition using likes and shares.
